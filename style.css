@@ -1,0 +1,22 @@
+.list-social{
+    list-style: none;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+}
+.navbar{
+    background-color: #212529;
+}
+.navbar .navbar-toggler{
+    color:rgba(255,255,255,.55) ;
+    border-color: rgba(255,255,255,.1)
+}
+.navbar-toggler{
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+}
+.navbarHeader{
+     background-color: #212529;
+}
